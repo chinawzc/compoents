@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>circle-progress</title>
+    <script src="js/circle-progress.js"></script>
+</head>
+<body>
+    <div style="margin: 50px;" id="circleProgress"></div>
+    <script>
+        var circle = new Circle();
+        circle.draw('#circleProgress', {
+            width: 100,
+            height: 100,
+            lineWidth: 10,
+            lineColor: "#159963",
+            round: "round",
+            percent: 0.6
+        })
+    </script>
+</body>
+</html>
