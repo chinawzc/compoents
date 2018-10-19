@@ -2,7 +2,7 @@
 - svg-环形进度条
 
 <html>
-<img src="images/circle@2x.png" width="100" height="100"/>
+<img src="images/circle.gif" width="100" height="100"/>
 </html>
 
 ```
