@@ -1,5 +1,5 @@
 # compoents
-- 环形进度条
+- svg-环形进度条
 
 <html>
 <img src="images/circle@2x.png" width="100" height="100"/>
