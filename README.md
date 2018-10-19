@@ -1,7 +1,9 @@
 # compoents
-- 环形进度条
+- svg-环形进度条
 
-![image](images/circle@2x.png)
+<html>
+<img src="images/circle.gif" width="100" height="100"/>
+</html>
 
 ```
 <div id="circleProgress"></div>
